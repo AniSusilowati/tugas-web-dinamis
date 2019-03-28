@@ -1,0 +1,7 @@
+<?php
+function firstfunction()
+{
+	echo "hallo hai";
+}
+firstfunction();// calling function
+?>
